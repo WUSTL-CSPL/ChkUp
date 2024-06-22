@@ -108,7 +108,7 @@ If you find our repo useful, please cite our work with the following reference:
 │   └── vuln_discov.py
 └── vuln_val
     ├── poc_creation
-    │   ├── modify_hex.sh
+    │   └── modify_hex.sh
     ├── FirmAE
     ├── firmware-analysis-toolkit
     ├── firmware-mod-kit
