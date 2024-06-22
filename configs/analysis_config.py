@@ -1,0 +1,18 @@
+#!/usr/bin/python
+# coding=utf-8
+FW_NAME = ""
+RESULTS_DIR = ""
+FW_RESULTS = ""
+UFG_RESULTS = ""
+SIM_RESULTS = ""
+VULN_RESULTS = ""
+ROOT_PATH = ""
+INPUT_PATH = ""
+HEADLESS_GHIDRA = "/home/chkup/Desktop/deps/ghidra_10.1.2_PUBLIC_20220125/ghidra_10.1.2_PUBLIC/support/analyzeHeadless" 
+GHIDRA_SCRIPT = "/home/chkup/Desktop/ChkUp/exec_pth_rec/ghidra_analysis.py" 
+GHIDRA_FEATURE_SCRIPT = "/home/chkup/Desktop/ChkUp/ver_proc_recog/feature_extraction.py" 
+JSCFG_SCRIPT = "/home/chkup/Desktop/ChkUp/exec_pth_rec/control_flows/js_cfg.js"
+CORPUS_CONFIG = "/home/chkup/Desktop/ChkUp/configs/vuln_corpus_config.yml"
+FEATURES_PATH = "/home/chkup/Desktop/cases/features"
+FEATURE_CORPUS = "/home/chkup/Desktop/cases/feature_corpus"
+DFG_CORPUS = "/home/chkup/Desktop/cases/dfg_corpus"

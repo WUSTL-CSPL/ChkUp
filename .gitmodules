@@ -1,0 +1,9 @@
+[submodule "vuln_val/firmware-analysis-toolkit"]
+	path = vuln_val/firmware-analysis-toolkit
+	url = https://github.com/attify/firmware-analysis-toolkit.git
+[submodule "vuln_val/FirmAE"]
+	path = vuln_val/FirmAE
+	url = https://github.com/pr0v3rbs/FirmAE.git
+[submodule "vuln_val/firmware-mod-kit"]
+	path = vuln_val/firmware-mod-kit
+	url = https://github.com/rampageX/firmware-mod-kit
